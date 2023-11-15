@@ -7,6 +7,6 @@ public class a{
 	System.out.println(y);
 	int first,code;
 	int SellingPrice;
-    	
+    	System.out.println("莫伊");
 	}
 }
